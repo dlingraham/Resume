@@ -1,7 +1,6 @@
 /* custom css */
 
-body{margin: : 0px;
-		padding: 0%;
+body{
 		width: 100%
 	}
 *{
@@ -23,12 +22,38 @@ h3 {
 	margin: -6px
 	}
 
-
-.c1{
-		/*width: 30%;*/
-padding: 10px;
-margin: 1%;
+.courses {
 float: left;
-/*padding-bottom: 20px;*/
+	display: inline;
+	
+}
+.c1{
+		width: 20%;
+float: left;
+}
+
+.c2{
+		width: 20%;
+float: left;
+}
+
+.c3{
+		width: 20%;
+float: left;
+}
+
+.work{
+	margin-top: 25%
+}
+
+.pos{
+	text-align: center;
+	margin-right: 15%;
+	margin-left: 15%;
+}
+
+ul{
+	margin-left: -12px;
+	line-height: 20px;
 }
 
